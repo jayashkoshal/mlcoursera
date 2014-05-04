@@ -29,7 +29,9 @@ X = [ones(m, 1) X];
 %       are in rows, then, you can use max(A, [], 2) to obtain the max 
 %       for each row.
 %       
-
+for prediction = 1 : m
+  [temp, p(prediction)] = max(X(prediction, :) * all_theta');
+end
 
 
 
