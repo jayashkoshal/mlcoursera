@@ -1,5 +1,4 @@
-## Data Science Specialization 
-
-* Uses R 
-* Nine courses 
-* Goes from raw data to data products
+## Machine learning coursera homework assignment
+* Octave code
+* Original data included
+* Instruction pdf file included
